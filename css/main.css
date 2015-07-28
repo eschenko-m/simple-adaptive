@@ -27,3 +27,33 @@ body {
 	font-family: "RobotoRegular", sans-serif;
 	font-size: 16px;
 }
+.header_topline{
+	background-color: #43484C;
+	padding: 15px 0;
+	color: #fff;
+}
+.header_topline a{
+	color: #fff;
+}
+.top-links{
+	display: inline-block;
+	vertical-align: middle;
+}
+.top-links a{
+	text-decoration: underline;
+}
+.top-links a:hover{
+	text-decoration: none;
+}
+.soc_buttons{
+	float: right;
+}
+.soc_buttons a{
+	font-size: 26px;
+	margin-left:7px;
+}
+.auth_buttons{
+	border:medium none;
+	font-size: 26px;
+	background-color: transparent;
+}

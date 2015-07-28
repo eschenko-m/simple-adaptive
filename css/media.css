@@ -12,7 +12,15 @@
 
 /* Small Devices, Tablets */
 @media only screen and (max-width : 768px) {
-
+.top-links{
+	display:none;
+	background-color: #585d61;
+	vertical-align: middle;
+	margin-top:15px;
+	padding:14px;
+	position:absolute;
+	width:100%;
+}
 }
 
 /* Extra Small Devices, Phones */
